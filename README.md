@@ -45,7 +45,7 @@ Each module exposes `run_<name>_module`, called from `rvnxc.sh` depending on mod
 ## Installation
 
 ```bash
-git clone https://github.com/<you>/rvnXC
+git clone https://github.com/dvllcosta/rvnXCC.git
 cd rvnXC
 ./install.sh --verbose
 cp .env.example .env          # fill in tokens/webhooks you actually use
