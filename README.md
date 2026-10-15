@@ -4,7 +4,7 @@ A lean, modular recon & vuln-triage pipeline for bug bounty hunters and penteste
 
 > **Legal:** rvnXC is for authorized security testing only — bug bounty scopes, written pentest authorization, or assets you own. Scanning targets without consent may be illegal. You are responsible for how you use this tool.
 
-## Why rvnXC and not just reconFTW?
+## Why rvnXC ?
 
 rvnXC follows the same recon-pipeline shape popularized by tools like reconFTW, but is deliberately smaller, and adds a few things that pipeline didn't have out of the box:
 
